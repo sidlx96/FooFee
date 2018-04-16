@@ -1,0 +1,8 @@
+{
+  "name": "FooFee",
+  "app_id": "9b25037d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
