@@ -1,2 +1,2 @@
 # FooFee
-Run npm install and the enjoy!
+Run npm install and then enjoy!
